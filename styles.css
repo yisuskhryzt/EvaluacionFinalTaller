@@ -50,12 +50,12 @@ body {
 .display-4 {
     color: rgb(255, 255, 255);
     text-align: center;
-    font-size: 40px;
+    font-size: 60px;
 }
 
 .lead {
     color: rgb(255, 255, 255);
-    font-size: 15px;
+    font-size: 25px;
 }
 
 .card-header {
